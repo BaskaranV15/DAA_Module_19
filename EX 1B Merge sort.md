@@ -1,5 +1,5 @@
 # EX 1B Merge Sort
-## DATE:14/5/25
+## DATE:16/5/25
 ## AIM:
 Write a python program to implement merge sort without using recursive function on the given list of values.
 
