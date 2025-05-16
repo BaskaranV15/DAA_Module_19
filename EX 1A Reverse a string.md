@@ -1,5 +1,5 @@
 # EX 1A recursive function
-## DATE:14/05/25
+## DATE:16/05/25
 ## AIM:
 Write a Python Program Using a recursive function to calculate the sum of a sequence
 
